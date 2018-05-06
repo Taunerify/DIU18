@@ -1,0 +1,52 @@
+.noticias{
+  border-right: 1px solid black;
+  display: inline-block;
+  float: left;
+  position: relative;
+  width: 50%;
+}
+
+.eventos{
+  border-left: 1px solid black;
+  display: inline-block;
+  float: right;
+  position: relative;
+  width: 50%;
+}
+.blanco{
+  margin-bottom: 314px;
+}
+
+.img {
+    border-radius: 50%;
+}
+
+.section-contact{
+  margin-bottom: 115px;
+  margin-top: 50px;
+}
+
+.logo-footer{
+  margin-left: -400px;
+  float: left;
+}
+.logo-ugr-footer{
+  margin-left: -400px;
+}
+
+.logo-ugr-footer2{
+  float: right;
+  margin-top: -60px;
+  margin-right: 220px;
+}
+
+.menus{
+  float: right;
+  margin-top: -150px;
+  margin-right: 220px;
+}
+
+.redes-sociales{
+  margin-top: 100px;
+  text-align: center;
+}
